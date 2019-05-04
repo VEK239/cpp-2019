@@ -1,0 +1,38 @@
+#include <iostream>
+#include <iostream>
+
+struct Foo
+{
+    void say() const
+    {
+        std::cout << "Foo says: " << msg << "\n";
+    }
+protected:
+    explicit Foo(const char* msg) : msg(msg)
+    {
+    }
+private:
+    const char* msg;
+};
+
+void foo_says(const Foo &foo)
+{
+    foo.say();
+}
+
+struct Bar : Foo
+{
+    explicit Bar(const char* msg) : Foo(msg)
+    {
+    }
+};
+
+const Foo get_foo(const char* msg)
+{
+    return Bar(msg);
+}
+
+int main()
+{
+    foo_says(get_foo("Hello!"));
+}

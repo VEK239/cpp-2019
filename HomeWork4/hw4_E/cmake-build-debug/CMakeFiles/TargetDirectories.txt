@@ -1,0 +1,3 @@
+C:/Users/1123085/CLionProjects/hw4_E/cmake-build-debug/CMakeFiles/hw4_E.dir
+C:/Users/1123085/CLionProjects/hw4_E/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/1123085/CLionProjects/hw4_E/cmake-build-debug/CMakeFiles/rebuild_cache.dir

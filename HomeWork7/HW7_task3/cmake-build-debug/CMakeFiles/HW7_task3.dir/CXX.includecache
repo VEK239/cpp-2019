@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Date.cpp
+Date.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Date.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Date.h
+iostream
+-
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Person.cpp
+utility
+-
+Date.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Date.h
+Person.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Person.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Person.h
+Date.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Date.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Student.cpp
+Student.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Student.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Student.h
+Person.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Person.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/main.cpp
+iostream
+-
+Student.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task3/Student.h
+

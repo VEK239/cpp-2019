@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/Driver.cpp
+iostream
+-
+Driver.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/Driver.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/Driver.h
+Rect.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/Rect.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/PlaneFigure.cpp
+PlaneFigure.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/PlaneFigure.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/PlaneFigure.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/Rect.cpp
+Rect.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/Rect.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/Rect.h
+PlaneFigure.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/PlaneFigure.h
+
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/main.cpp
+Driver.h
+C:/Users/1123085/CLionProjects/HomeWork7/HW7_task1/Driver.h
+
