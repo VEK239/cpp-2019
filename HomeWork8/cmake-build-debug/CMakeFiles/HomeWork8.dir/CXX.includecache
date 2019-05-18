@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1123085/CLionProjects/HomeWork8/Budget.cpp
+Budget.h
+C:/Users/1123085/CLionProjects/HomeWork8/Budget.h
+
+C:/Users/1123085/CLionProjects/HomeWork8/Budget.h
+vector
+-
+Cause.h
+C:/Users/1123085/CLionProjects/HomeWork8/Cause.h
+Event.h
+C:/Users/1123085/CLionProjects/HomeWork8/Event.h
+
+C:/Users/1123085/CLionProjects/HomeWork8/Cause.h
+iostream
+-
+Message.h
+C:/Users/1123085/CLionProjects/HomeWork8/Message.h
+
+C:/Users/1123085/CLionProjects/HomeWork8/Event.h
+iostream
+-
+Message.h
+C:/Users/1123085/CLionProjects/HomeWork8/Message.h
+
+C:/Users/1123085/CLionProjects/HomeWork8/Message.h
+string
+-
+
